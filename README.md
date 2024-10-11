@@ -16,7 +16,7 @@ I focused on the following areas:
 
 I spent about 5 hours working on this project. 
 - 1.5 hours designing and developing the server utility RecipeFetcher and the RecipesViewModel to cover all error cases robustly with extensibility and reusability. 
-- 2 hours total working on the views and data and state management. I had some debugging to do and change of heart with some of the UI approaches. 
+- 2 hours total working on the views, data, and state management. I had some debugging to do and change of heart with some of the UI approaches. 
 - .5 hours creating the unit tests and mock RecipeFetcher objects
 - 1 hour debugging, finetuning, and optimizing the code and unit tests, and covering edge cases such as:
     - some small photo URLs were returning 404 errors, I substituted with the large URL in those cases
