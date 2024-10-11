@@ -45,7 +45,7 @@ Yes, I used Kingfisher for the image caching which allowed me to focus more on c
 
 # Additional Information: Is there anything else we should know? Feel free to share any insights or constraints you encountered.
 
-Just as a note, the admin feature of long-pressing the Recipes title is intended to only function in dev environments, and would be toggled off in released code
+Just as a note, the admin feature of long-pressing the Recipes title is intended to only function in dev environments, and would be toggled off in released code.
 
 Additional features:
 - Long press the recipe title to change the data you're loading
