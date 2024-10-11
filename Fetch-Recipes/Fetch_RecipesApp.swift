@@ -11,7 +11,7 @@ import SwiftUI
 struct Fetch_RecipeAppApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            RecipeListView(url: "https://d3jbb8n5wk0qxi.cloudfront.net/recipes.json")
         }
     }
 }
