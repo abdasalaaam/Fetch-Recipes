@@ -1,6 +1,6 @@
 # Steps to Run the App
 
-Clone this repository into your local directory via your terminal with command `git clone https://github.com/abdasalaaam/Fetch_Recipes.git` or with a Git client of your choice. 
+Clone this repository into your local directory with running the command `git clone https://github.com/abdasalaaam/Fetch-Recipes.git` in your terminal or with a Git client of your choice. 
 
 Navigate to the cloned directory and open the Fetch-Recipes.xcodeproj file in Xcode. After that, select your simulator or physical device in Xcode and click the run button. 
 
